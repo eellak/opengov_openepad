@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client
+END
+header.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client/header.inc.php
+END
+login.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client/login.inc.php
+END
+header2.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client/header2.inc.php
+END
+formheader.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client/formheader.inc.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client/.htaccess
+END
+footer.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client/footer.inc.php
+END
+formheader2.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client/formheader2.inc.php
+END
+viewticket.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client/viewticket.inc.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client/index.php
+END
+footer2.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client/footer2.inc.php
+END
+open.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client/open.inc.php
+END
+thankyou.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client/thankyou.inc.php
+END
+tickets.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/client/tickets.inc.php
+END

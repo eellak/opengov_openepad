@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/lib/compat
+END
+var_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/lib/compat/var_export.php
+END
+is_callable.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/lib/compat/is_callable.php
+END
+is_a.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/lib/compat/is_a.php
+END
+version_compare.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/lib/compat/version_compare.php
+END
+is_scalar.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/lib/compat/is_scalar.php
+END
+array_key_exists.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/lib/compat/array_key_exists.php
+END

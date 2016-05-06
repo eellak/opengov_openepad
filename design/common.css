@@ -1,0 +1,301 @@
+body{
+	font-family:"Arial","Trebuchet MS",Verdana,Helvetica,Arial,sans-serif;
+   background-image: url("img/bg.png");
+   background-repeat: repeat;
+}
+
+a { color:#1a6091; }
+a:hover { text-decoration:underline; }
+
+.radius{
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+/*---------------- Header -----------------*/
+#rheader, .rhear, .rlogo, rmoto{
+	background: #fff;
+}	
+
+#rheader{
+	margin:0 auto;
+	height: 130px;
+}
+
+.rhead{
+	margin:0 auto;
+	padding:25px;
+	width:950px;
+}
+
+.rhead .rlogo{
+	float:left;
+	width:410px;
+	padding:15px 0px 0px 0px;
+}
+
+.rhead .rlogo img{
+	float: left;
+	padding:0px 10px 10px 0px;
+}
+
+.rhead .rlogo span{
+	float: left;
+	padding:10px 0px 0px 0px;
+}
+
+.rmoto{
+	float:right;
+	width:540px;
+	text-align: right;
+}
+
+/*---------------- Navigation --------------*/
+#rnavigationwrapper{
+	margin:10px auto;
+	height: 40px;
+	width:980px;
+}
+
+.rnavigation{
+	float: left;
+	background: url("img/fbg.png") repeat scroll 0 0 transparent;
+	width:980px;
+}
+
+.rnavigation ul{
+	float: left;
+	padding: 5px 10px;
+	height: 30px;
+}
+
+.rnavigation ul li{
+	display: inline;
+	float: left;
+}
+
+ul.rnav{
+   width: 680px;
+}
+
+ul.rnav li{
+	font-weight: bold;
+	font-size: 80%;
+	padding:0px 10px;
+}
+
+ul.rnav li a{
+	float: left;
+	padding:10px 8px 5px;
+	height: 15px;
+}
+
+ul.rnav li a.current,
+ul.rnav li a:hover{
+	background: #ffffff;
+	text-decoration: none;
+	color:#666666;
+}
+
+ul.rnav li a:hover{
+	color:#80ab1f;
+}
+
+ul.rtoolz{
+	width:260px;
+}
+
+/*---------------- Wrapper --------------*/
+
+#rwrapper{
+	margin:10px auto;
+	min-height: 350px;
+	width:980px;
+}
+
+.rcontainer,
+.rtop,
+.rbottom{
+	float:left;
+	width:980px;
+}
+
+/*---------------- Generic ---------------*/
+.rmain,
+.rsidebar,
+.rsidebarbottom,
+.rmaintitle,
+.rmaininfo,
+.comments,
+.commentform,
+.singlebig{
+	float:left;
+	background: #fff;
+	padding:20px;
+}
+
+.rmain,
+.rmaintitle,
+.rmaininfo,
+.comments,
+.commentform{
+	width:640px;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+
+.rmain{
+	line-height:140%;
+	color:#444444;
+}
+
+.rmaininfo{
+	
+}
+
+.rmaintitle{
+	
+}
+
+.mainformtitle {
+    background-color: #B3E53E;
+    color: #FFFFFF;
+    float: left;
+    font-size: 1.3em;
+    line-height: 1.1em;
+    padding: 3px;
+    text-align: center;
+    width: 300px;
+}
+
+/*---------------- Single ---------------*/
+.single{
+	float: left;
+	width:690px;
+}
+
+.comments{
+	float: left;
+}
+
+.commentform{
+	float: left;
+}
+
+/*---------------- SingleBIG ---------------*/
+.singlebig{
+	
+}
+
+/*---------------- Archive ---------------*/
+
+
+/*---------------- Sidebar --------------*/
+.rsidebar,
+.rsidebartop,
+.rsidebarbottom{
+	width:250px;
+	margin-bottom:10px;
+}
+
+.rsidebartop{
+	float:left;
+	padding:10px 20px;
+	text-align: center;
+}
+
+.rsidebartop ul.share_them li{
+	display: inline;
+	float:left;
+	padding:0px 15px;
+}
+
+.rsidebar{
+	
+}
+
+.rsidebartop{
+	
+}
+
+.rsidebarbottom{
+	
+}
+
+/*---------------- Bottom --------------*/
+.rbottomleft,
+.rbottommiddle,
+.rbottomright{
+	float:left;
+	padding:20px;
+	background: #fff;
+	min-height: 250px; /* TEMP */
+}
+
+.rbottomleft{
+	width:400px;
+}
+
+.rbottommiddle{
+	width:240px;
+	margin:0px 10px 0px;
+}
+
+.rbottomright{
+	width:200px;
+}
+
+/*---------------- Footer --------------*/
+#rfooter{
+	background: url("img/fbg.png") repeat scroll 0 0 transparent;
+ 	border-top: 1px solid #CACACA;
+ 	float: left;
+ 	font-size: 70%;
+ 	line-height: 140%;
+ 	margin-top: 10px;
+ 	padding: 12px 0 8px;
+ 	text-align: center;
+ 	width: 100%;
+}
+
+/*---------------- Slider --------------*/
+
+.rslider{
+	float:left;
+	background:#ffffff;
+	width:980px;
+	min-height: 280px;
+}
+
+.rtut{
+	float:left;
+	width:700px;
+}
+
+.ractions{
+	float:left;
+	width:280px;
+}
+
+#logocall{
+font-style:italic;
+background-color:#FFFBCA;
+width:180px;
+float:right;
+text-align:center;
+font-size:11px;
+padding:2px;
+
+}
+
+.message {
+color:#FF0000;
+margin-left:40px;
+float:right;
+margin-bottom:30px;
+text-decoration:underline;
+
+
+}

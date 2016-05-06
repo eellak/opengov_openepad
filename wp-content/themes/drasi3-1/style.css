@@ -1,0 +1,330 @@
+/*
+Theme Name: Drasi  3 - protipi platforma
+Theme URI: 
+Description: Drasi3 [MainSite]
+Version: 2.0
+Author: 
+Author URI: http://
+*/
+
+.maintitle{
+	font-size: 1.3em;
+	float:left;
+	width:500px;
+	text-align: center;
+	color: #FFFFFF;
+	background-color:#b3e53e;
+	padding:3px;
+	line-height:1.1em;
+}
+
+.maintitle-small{
+	font-size: 1.2em;
+	float:left;
+	width:200px;
+	text-align: center;
+	color: #FFFFFF;
+	background-color:#b3e53e;
+	padding:3px;
+	line-height:1.1em;
+}
+
+
+.aligncenter {
+	text-align:center;
+}
+
+/* ------------- PAGE ----------- */
+.rmaintitle{
+	background: none repeat scroll 0 0 #B3E53E;
+    color: #FFFFFF;
+font-size: 120%;
+    font-weight: bold;
+    margin: 10px;
+    padding: 8px 10px;
+}
+
+.pagez .rmain{
+	min-height:500px;
+}
+
+.rmain hr{
+	width:100%;
+	background: #666666;	
+	margin: 10px 0px;
+	display:inline;
+	float:left;
+}
+
+.rmain strong{
+	font-weight: bold;
+}
+
+.rmain em{
+	font-style: italic;
+}
+
+.rmain p{
+	padding: 10px 0px;
+	font-size:14px!important;
+}
+
+/* ------------- INDEX ----------- */
+.indexz .single{
+	width:590px;
+}
+
+.indexz .single .rmain{
+	width:540px;
+}
+
+/* ------------- SIDEBAR ----------- */
+.indexz  .rsidebar,
+.indexz  .rsidebarbottom,
+.indexz  .rsidebartop{
+	width:350px;
+}
+
+.indexz .rsidebartop ul.share_them li {
+    padding: 0 40px;
+}
+
+
+.rsidebartop {
+float:right;
+background-color:#FFFFFF;
+
+}
+.rsidebartop a {
+color:#666666;
+
+}
+
+.indexz .go{
+	/* background: url("img/go.png") no-repeat scroll left center #B3E53E; */
+}
+
+.indexz .go .act{
+    float: left;
+    margin: 12px 30px;
+    padding: 5px 10px;
+    width: 260px;
+    font-weight:bold;
+    text-align: center;
+}
+
+.indexz .cons{ 
+    color: #444444;
+    float: left;
+    padding: 10px 15px;
+    width: 320px;
+}
+
+.indexz .cons span{
+	float:left;
+	width:100%;
+	text-align: right;
+	 font-weight: bold;
+	 color: #666666;
+}
+
+.indexz .cons ul{
+	float:left;
+	width:280px;
+	padding:2px 0 0 40px;
+ 	font-weight: bold;
+}
+
+.indexz .cons ul li{
+	background: none repeat scroll 0 0 #B3E53E;
+    float: left;
+    margin-top: 2px;
+    padding: 5px;
+    width: 270px;
+}
+
+.indexz .cons ul li:hover{
+	background: #eef8d5;
+}
+
+.indexz .cons ul li:hover a:hover{
+	text-decoration: none;
+}
+
+
+.indexz .labz,
+.rsidebar .labz{
+	background: url("img/labs.png") no-repeat scroll left center #B3E53E;
+    border: 1px solid #B3E53E;
+    color: #FFFFFF;
+    float: left;
+    font-weight: bold;
+    padding: 15px 0 15px 110px;
+    width: 240px;
+    /*margin-top:20px; */
+}
+
+.rsidebar .labz{
+	width: 140px;
+	padding:7px 0 7px 110px;
+	
+}
+
+.indexz .labz:hover{
+	text-decoration: none;
+}
+
+/* ------------- BOTTOM ----------- */
+.faq_button{
+ 	background: url("img/faq.png") no-repeat scroll left center transparent;
+    border: 1px dotted #4A6C2C;
+    color: #4A6C2C;
+    float: left;
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 13px 0 13px 50px;
+    width: 190px;
+}
+
+.faq_button:hover{
+	text-decoration: none;
+	background-color:#a2de1b;
+	color:#fff;
+}
+
+.status_form{
+	float:left;
+	width:219px;
+	padding:5px 10px;
+	border:1px dotted #444444;
+	font-size:90%;
+}
+
+.status_form input{
+	color: #666666;
+    float: left;
+    margin: 2px 0 8px 20px;
+    min-width: 180px;
+    padding: 3px;
+}
+
+.rbottom {
+margin-top:20px;
+
+}
+
+.rbottomtitle{
+   background: none repeat scroll 0 0 #CDDCFB;
+    border-bottom: 1px dotted;
+    color: #323871;
+    float: left;
+    font-size: 90%;
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding: 8px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.latezt .rbottomtitle{
+	width: 360px;
+}
+
+.latezt .rzz{
+background: url("img/rss_blue.png") no-repeat scroll center center #CDDCFB;
+    border-bottom: 1px dotted;
+    color: #323871;
+    float: left;
+    font-size: 90%;
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding: 8px 10px 8px 0;
+    text-align: center;
+    width: 30px;
+}
+.linkz ul, 
+.linkz ul li,
+.latezt ul,
+.latezt ul li{
+	float:left;
+	width:100%;
+}
+
+.latezt ul{
+	min-height:155px;
+}
+
+.linkz ul li,
+.latezt ul li{
+	 padding:8px 0;
+	 border-bottom: 1px dotted #cacaca;
+}
+
+.linkz ul li a{
+	background: url("img/link.png") no-repeat scroll left center transparent;
+	padding:2px 0px 2px 15px;
+}
+
+.latezt ul li{
+ padding:4px 0;
+ width:98%;
+ padding-left:2%;
+}
+
+.latezt ul li a{
+	font-size:80%;
+}
+
+.latezt ul li:hover {
+	background: #c8e4ff;
+}
+
+.latezt ul li:hover a:hover{
+	text-decoration:none;
+}
+
+.statz{
+	float:left;
+	margin-top:10px;
+	width:100%;
+	color:#444444;
+}
+
+.statzsum{
+ border: 1px solid #CACACA;
+    float: left;
+    margin-right: 10px;
+    padding: 10px;
+    width: 205px;
+}
+
+.viewallz{
+    border: 1px dotted #444444;
+    float: left;
+    padding: 10px;
+    width: 140px;
+}
+
+.viewallz:hover{
+	background: #e9f5c7;
+	border: 1px solid #638514;
+	text-decoration: none;
+}
+
+.maintitle a {
+color:#FFFFFF;
+text-decoration:none;
+
+}
+
+.maintitle a:hover {
+text-decoration:underline;
+margin-bottom:20px;
+}
+
+#readcomment{
+font-size:11px;
+padding:5px;
+float:right;
+
+}

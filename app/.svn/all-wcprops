@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app
+END
+tickets.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/tickets.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/index.php
+END
+citizenviewmessagepreview.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/citizenviewmessagepreview.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/login.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/logout.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/view.php
+END
+offline.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/offline.php
+END
+client.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/client.inc.php
+END
+attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/attachment.php
+END
+main.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/main.inc.php
+END
+secure.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/secure.inc.php
+END
+global.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/global.php
+END
+citizenview.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/citizenview.php
+END
+open.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/open.php
+END
+captcha.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/captcha.php
+END
+tickets_old.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/tickets_old.php
+END
+citizenviewmessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/citizenviewmessage.php
+END

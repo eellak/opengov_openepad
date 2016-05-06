@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test/PHPUnit
+END
+TestFailure.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test/PHPUnit/TestFailure.php
+END
+TestSuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test/PHPUnit/TestSuite.php
+END
+TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test/PHPUnit/TestCase.php
+END
+TestResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test/PHPUnit/TestResult.php
+END
+Assert.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test/PHPUnit/Assert.php
+END
+TestDecorator.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test/PHPUnit/TestDecorator.php
+END
+TestListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test/PHPUnit/TestListener.php
+END

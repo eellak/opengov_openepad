@@ -1,0 +1,57 @@
+/* Selectmenu
+----------------------------------*/
+.ui-selectmenu { display: block; display: inline-block; position: relative; height:1.8em; text-decoration: none; overflow: hidden; zoom: 1; }
+.ui-selectmenu-icon { position:absolute; right:6px; margin-top:-8px; top: 50%; }
+.ui-selectmenu-menu { padding:0; margin:0; list-style:none; position:absolute; top: 0; visibility: hidden; overflow: auto; z-index: 1005;} /* z-index: 1005 to make selectmenu work with dialog */
+.ui-selectmenu-open { visibility: visible; }
+.ui-selectmenu-menu-popup { margin-top: -1px; }
+.ui-selectmenu-menu-dropdown { }
+.ui-selectmenu-menu li { padding:0; margin:0; display: block; border-top: 1px dotted transparent; border-bottom: 1px dotted transparent; border-right-width: 0 !important; border-left-width: 0 !important; font-weight: normal !important; }
+.ui-selectmenu-menu li a,.ui-selectmenu-status { line-height:1.8em; display: block; padding: .405em 1em; outline:none; text-decoration:none; }
+.ui-selectmenu-menu li.ui-selectmenu-hasIcon a,
+.ui-selectmenu-hasIcon .ui-selectmenu-status { padding-left: 20px; position: relative; margin-left: 5px; }
+.ui-selectmenu-menu li .ui-icon, .ui-selectmenu-status .ui-icon { position: absolute; top: 1em; margin-top: -8px; left: 0; }
+.ui-selectmenu-status { line-height:1.8em; }
+.ui-selectmenu-open li.ui-selectmenu-item-focus a { }
+.ui-selectmenu-open li.ui-selectmenu-item-selected { }
+.ui-selectmenu-menu li span,.ui-selectmenu-status span { display:block; margin-bottom: .2em; }
+.ui-selectmenu-menu li .ui-selectmenu-item-header { font-weight: bold; }
+.ui-selectmenu-menu li .ui-selectmenu-item-content { }
+.ui-selectmenu-menu li .ui-selectmenu-item-footer { opacity: .8; }
+/* for optgroups */
+.ui-selectmenu-menu .ui-selectmenu-group { font-size: 1em; }
+.ui-selectmenu-menu .ui-selectmenu-group .ui-selectmenu-group-label { line-height: 1.8em; display:block; padding: .6em .5em 0; font-weight: bold; }
+.ui-selectmenu-menu .ui-selectmenu-group ul { margin: 0; padding: 0; }
+/* IE6 workaround (dotted transparent borders) */
+* html .ui-selectmenu-menu li { border-color: pink; filter:chroma(color=pink); width:100%; }
+* html .ui-selectmenu-menu li a { position: relative }
+
+
+/* custom ovverides */
+
+ .ui-selectmenu { font: normal 11px Verdana, Tahoma, sans-serif!important; color:#1C86EE!important;width:240px!important;}
+ .ui-selectmenu-status {
+  line-height:1.1em!important;
+  padding-left:0.3em;
+  padding-bottom:0px;
+ } 
+ .ui-selectmenu-menu LI
+ {
+  font: normal 11px Verdana, Tahoma, sans-serif!important;
+  color:#1C86EE!important;
+  text-align: left;
+ 
+ }
+ 
+#deptId-button {width:440px!important;} 
+ 
+ 
+  a.customicons { height: 2.8em;}
+ .customicons li a,  a.customicons span.ui-selectmenu-status { line-height: 2em; padding-left: 30px !important; }
+ .phone .ui-selectmenu-item-icon,  .email .ui-selectmenu-item-icon,  .mobile .ui-selectmenu-item-icon  , .post .ui-selectmenu-item-icon { height: 24px; width: 24px; }
+		
+ .mobile .ui-selectmenu-item-icon { background: url('../images/citizenform/icons/mobile.gif') 0 0 no-repeat; }
+ .phone .ui-selectmenu-item-icon { background: url('../images/citizenform/icons/phone.gif') 0 0 no-repeat; }
+ .email .ui-selectmenu-item-icon { background: url('../images/citizenform/icons/email.gif') 0 0 no-repeat; }
+ .post .ui-selectmenu-item-icon { background: url('../images/citizenform/icons/post.gif') 0 0 no-repeat; }
+ 

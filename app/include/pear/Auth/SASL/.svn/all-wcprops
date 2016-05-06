@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Auth/SASL
+END
+Anonymous.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Auth/SASL/Anonymous.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Auth/SASL/Common.php
+END
+CramMD5.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Auth/SASL/CramMD5.php
+END
+Login.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Auth/SASL/Login.php
+END
+Plain.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Auth/SASL/Plain.php
+END
+DigestMD5.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Auth/SASL/DigestMD5.php
+END

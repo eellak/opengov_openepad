@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test
+END
+parse_args.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test/parse_args.php
+END
+phpunit.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test/phpunit.php
+END
+verify_compat.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test/verify_compat.php
+END
+testsuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test/testsuite.php
+END
+benchmark.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/wpxmlrpc/xmlrpc-2.2.1/test/benchmark.php
+END

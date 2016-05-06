@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.pop3.php
+END
+class.ticket.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.ticket.php
+END
+class.nav.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.nav.php
+END
+class.lock.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.lock.php
+END
+class.banlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.banlist.php
+END
+class.utils.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.utils.php
+END
+ajax.kbase.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/ajax.kbase.php
+END
+class.captcha.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.captcha.php
+END
+class.msgtpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.msgtpl.php
+END
+class.idiotita.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.idiotita.php
+END
+class.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.api.php
+END
+class.wordpressXMLRPC.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.wordpressXMLRPC.php
+END
+class.sys.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.sys.php
+END
+ost-config.php.old
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/ost-config.php.old
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/.htaccess
+END
+class.usersession.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.usersession.php
+END
+class.pagenate.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.pagenate.php
+END
+ajax.tickets.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/ajax.tickets.php
+END
+class.validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.validator.php
+END
+class.email.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.email.php
+END
+class.format.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.format.php
+END
+class.misc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.misc.php
+END
+class.mailfetch.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.mailfetch.php
+END
+class.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.group.php
+END
+class.dept.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.dept.php
+END
+mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/mysql.php
+END
+class.cron.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.cron.php
+END
+class.staff.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.staff.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/index.php
+END
+ost-config.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/ost-config.php
+END
+class.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.config.php
+END
+class.mailparse.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.mailparse.php
+END
+class.topic.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.topic.php
+END
+class.client.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.client.php
+END
+class.http.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/class.http.php
+END

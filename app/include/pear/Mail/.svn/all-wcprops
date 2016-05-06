@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Mail
+END
+mimePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Mail/mimePart.php
+END
+mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Mail/mail.php
+END
+smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Mail/smtp.php
+END
+RFC822.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Mail/RFC822.php
+END
+mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Mail/mime.php
+END
+mock.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Mail/mock.php
+END
+null.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Mail/null.php
+END
+mimeDecode.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Mail/mimeDecode.php
+END
+sendmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/dioikitiki-metarithmisi/!svn/ver/100/drasi3/app/include/pear/Mail/sendmail.php
+END

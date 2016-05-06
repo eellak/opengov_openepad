@@ -1,0 +1,516 @@
+/*
+Theme Name: drasi3 archive theme
+Theme URI: ..
+Description: Drasi 3 archive theme
+Version: 2.0
+Author: drasi3
+Author URI:..
+*/
+
+.maintitle{
+	font-size: 1.3em;
+	float:left;
+	width:300px;
+	text-align: center;
+	color: #FFFFFF;
+	background-color:#b3e53e;
+	padding:3px;
+	line-height:1.1em;
+}
+
+.aligncenter {
+	text-align:center;
+}
+
+/* ------------- PAGE ----------- */
+.rmaintitle{
+	background: none repeat scroll 0 0 #B3E53E;
+    color: #FFFFFF;
+font-size: 120%;
+    font-weight: bold;
+    margin: 10px;
+    padding: 8px 10px;
+}
+
+.pagez .rmain{
+	min-height:500px;
+}
+
+.rmain hr{
+	width:100%;
+	background: #666666;	
+	margin: 10px 0px;
+	display:inline;
+	float:left;
+}
+
+.rmain strong{
+	font-weight: bold;
+}
+
+.rmain em{
+	font-style: italic;
+}
+
+.rmain p{
+	padding: 10px 0px;
+}
+
+/* ------------- INDEX ----------- */
+.indexz .single{
+	width:590px;
+}
+
+.indexz .single .rmain{
+	width:540px;
+}
+
+/* ------------- SIDEBAR ----------- */
+.indexz  .rsidebar,
+.indexz  .rsidebarbottom,
+.indexz  .rsidebartop{
+	width:350px;
+}
+
+.rsidebartop{
+	  margin: 10px 0;
+}
+
+/*
+.indexz .rsidebartop ul.share_them li {
+    padding: 0 40px;
+} */
+
+.indexz .go{
+	background: url("img/go.png") no-repeat scroll left center #B3E53E;
+}
+
+.indexz .go .act{
+    float: left;
+    margin: 12px 30px;
+    padding: 5px 10px;
+    width: 260px;
+    font-weight:bold;
+    text-align: center;
+}
+
+.indexz .cons{ /*
+  	background: none repeat scroll 0 0 #B3E53E; */
+    color: #444444;
+    float: left;
+    padding: 10px 15px;
+    width: 320px;
+}
+
+.indexz .cons span{
+	float:left;
+	width:100%;
+	text-align: right;
+	 font-weight: bold;
+	 color:#4B7330;
+}
+
+.indexz .cons ul{
+	float:left;
+	width:280px;
+	padding:2px 0 0 40px;
+ 	font-weight: bold;
+}
+
+.indexz .cons ul li{
+	background: none repeat scroll 0 0 #B3E53E;
+    float: left;
+    margin-top: 2px;
+    padding: 5px;
+    width: 270px;
+}
+
+.indexz .cons ul li:hover{
+	background: #eef8d5;
+}
+
+.indexz .cons ul li:hover a:hover{
+	text-decoration: none;
+}
+
+
+.indexz .labz,
+.rsidebar .labz{
+	background: url("img/labs.png") no-repeat scroll left center #B3E53E;
+    border: 1px solid #B3E53E;
+    color: #FFFFFF;
+    float: left;
+    font-weight: bold;
+    padding: 15px 0 15px 110px;
+    width: 240px;
+    /*margin-top:20px; */
+}
+
+.rsidebar .labz{
+	width: 140px;
+	padding:7px 0 7px 110px;
+}
+
+.indexz .labz:hover{
+	text-decoration: none;
+}
+
+.returner{
+	  float: left;
+    padding: 4px 20px;
+    text-align: center;
+    width: 250px;
+    	background: none repeat scroll 0 0 #CDDCFB;
+    border-bottom: 1px dotted;
+    border-top: 1px dotted;
+    color: #323871;
+    font-weight: bold;
+    font-size: 80%;
+}
+
+/*-------------- ARCHIVE ------------*/
+
+.archivez .rmaininfo{
+ 	background: none repeat scroll 0 0 #CDDCFB;
+    margin-bottom: 5px;
+    padding: 8px 20px;
+    border-top: 1px dotted #323871;
+    border-left: 1px dotted #323871;
+    border-right: 1px dotted #323871;
+    width: 638px;
+}
+
+.archivez .rmaininfo a{
+ 	color:#323871;
+ 	font-weight: bold;
+ 	font-size:90%;
+ 	width:85%;
+ 	float:left;
+}
+
+.archivez .rmaininfo span.commz{
+    border-left: 1px solid;
+    color: #323871;
+    float: left;
+    font-size: 90%;
+    margin-left: 1%;
+    text-align: center;
+    width: 13%
+}
+
+.archivez .rmain{
+	 margin-bottom: 20px;
+	 width: 638px;
+	  border-bottom: 1px dotted #323871;
+    border-left: 1px dotted #323871;
+    border-right: 1px dotted #323871;
+}
+
+.archivez .rmain p{
+	padding: 0;
+}
+
+.xplain{
+border: medium none !important;
+    width: 640px !important;
+    margin: 0 0 30px !important;
+}
+
+.paginate{
+	font-size:90%;
+ background: none repeat scroll 0 0 #E4FFA2;
+    border-color: #323871;
+    border-style: solid dotted dotted;
+    border-width: 1px;
+    float: left;
+    margin-top: 10px;
+    padding: 5px 20px;
+    text-align: center;
+    width: 640px;
+}
+
+.paginate a,
+.paginate span{
+	padding:0px 8px;
+}
+
+.paginate span.current{
+font-size:85%;
+	border:1px solid #cacaca;
+	font-weight: bold;
+	padding:2px 4px;
+	margin:0px 4px;
+}
+
+/*-------------- SINGLE ------------*/
+
+.single .rmaininfo{
+	background:#ffefd0;
+	font-size:90%;
+	color:#444444;
+}
+.single .rmaininfo .infodata,
+.single .rmaininfo .infodata2,
+.single .rmaininfo .infodatacontent{
+	float: left;
+    padding: 4px 0;
+}
+
+.single .rmaininfo .infodata,
+.single .rmaininfo .infodata2{
+	width:150px;
+	font-weight:bold;
+	font-style: italic;
+}
+
+.single .rmaininfo .infodatacontent{
+	width: 490px;
+}
+
+/*------------- COMMENTS ------------*/
+
+#comments{
+	float:left;
+	width:100%;
+}
+
+.history{
+	width:950px;
+	padding:10px 14px;
+	float: left;
+	background: #d4eaa1;
+	border: 1px dotted #cacaca;
+}
+
+.historytitle{
+	float:left;
+	width:100%;
+	margin-bottom:15px;
+	font-weight:bold;
+	color:#4b7330;
+}
+
+.historyitem{
+	border-bottom:1px dotted #cacaca;
+	padding: 10px 0 0;
+	float:left;
+	width:100%;
+}
+
+.historyitem .historymsg{
+	border-right:1px dotted #cacaca;
+	padding:0px 10px 5px 0px;
+	float: left;
+	width:729px;
+}
+
+.historyitem .moredata{
+	padding:0px 10px 5px 0px;
+	float: left;
+	width:200px;
+	text-align: right;
+}
+
+.commentz{
+	float:left;
+	width:100%;
+}
+
+.commentztitle{
+	float:left;
+	width:100%;
+	text-align: center;
+	font-size:90%;
+	background:#ffefd0;
+	padding:8px 0px;
+	margin:10px 0px 5px 0px;
+	font-weight:bold;
+	color:#666666;
+}
+
+.commnt{
+	width:950px;
+	padding:10px 14px;
+	float: left;
+	background: #f9ede3;
+	margin:5px 0px;
+	border: 1px dotted #cacaca;
+}
+
+.commnt .commentmsg{
+	border-right:1px dotted #cacaca;
+	padding:0px 10px 5px 0px;
+	float: left;
+	width:729px;
+}
+
+.commnt .commentdata{
+	padding:0px 10px 5px 0px;
+	float: left;
+	width:200px;
+	text-align: right;
+}
+
+/*-------------- SORTER ------------*/
+.lister ul{
+	padding:0;
+	margin:0;
+}
+
+.lister ul li{
+   border-bottom: 1px dotted #ECECEC;
+    float: left;
+    font-size: 90%;
+    list-style: none outside none;
+    padding: 6px 0 6px 20px;
+    width: 230px;
+}
+
+.lister ul li.remove{
+	background:url(img/minus.png) left center no-repeat;
+}
+
+.lister ul li.add{
+	background:url(img/plus.png) left center no-repeat;
+}
+
+/* ------------- BOTTOM ----------- */
+.faq_button{
+ 	background: url("img/faq.png") no-repeat scroll left center transparent;
+    border: 1px dotted #4A6C2C;
+    color: #4A6C2C;
+    float: left;
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 13px 0 13px 50px;
+    width: 190px;
+}
+
+.faq_button:hover{
+	text-decoration: none;
+	background-color:#a2de1b;
+	color:#fff;
+}
+
+.status_form{
+	float:left;
+	width:219px;
+	padding:5px 10px;
+	border:1px dotted #444444;
+	font-size:90%;
+}
+
+.status_form input{
+	color: #666666;
+    float: left;
+    margin: 2px 0 8px 20px;
+    min-width: 180px;
+    padding: 3px;
+}
+
+.rbottomtitle{
+   background: none repeat scroll 0 0 #CDDCFB;
+    border-bottom: 1px dotted;
+    color: #323871;
+    float: left;
+    font-size: 90%;
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding: 8px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.sidewrapper{
+	float: left;
+	width:250px;
+}
+
+.rsidebartitle{
+	margin-top:10px;
+}
+
+.latezt .rbottomtitle{
+	width: 360px;
+}
+
+.latezt .rzz{
+background: url("img/rss_blue.png") no-repeat scroll center center #CDDCFB;
+    border-bottom: 1px dotted;
+    color: #323871;
+    float: left;
+    font-size: 90%;
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding: 8px 10px 8px 0;
+    text-align: center;
+    width: 30px;
+}
+.linkz ul, 
+.linkz ul li,
+.latezt ul,
+.latezt ul li{
+	float:left;
+	width:100%;
+}
+
+.latezt ul{
+	min-height:155px;
+}
+
+.linkz ul li,
+.latezt ul li{
+	 padding:8px 0;
+	 border-bottom: 1px dotted #cacaca;
+}
+
+.linkz ul li a{
+	background: url("img/link.png") no-repeat scroll left center transparent;
+	padding:2px 0px 2px 15px;
+}
+
+.latezt ul li{
+ padding:4px 0;
+ width:98%;
+ padding-left:2%;
+}
+
+.latezt ul li a{
+	font-size:80%;
+}
+
+.latezt ul li:hover {
+	background: #c8e4ff;
+}
+
+.latezt ul li:hover a:hover{
+	text-decoration:none;
+}
+
+.statz{
+	float:left;
+	margin-top:10px;
+	width:100%;
+	color:#444444;
+}
+
+.statzsum{
+ border: 1px solid #CACACA;
+    float: left;
+    margin-right: 10px;
+    padding: 10px;
+    width: 205px;
+}
+
+.viewallz{
+    border: 1px dotted #444444;
+    float: left;
+    padding: 10px;
+    width: 140px;
+}
+
+.viewallz:hover{
+	background: #e9f5c7;
+	border: 1px solid #638514;
+	text-decoration: none;
+}
